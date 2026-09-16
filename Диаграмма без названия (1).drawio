@@ -1,0 +1,111 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="9gwBVE62jibhDmAtyd8j">
+    <mxGraphModel dx="1988" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-3" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="170" />
+            </Array>
+            <mxPoint x="260" y="170" as="sourcePoint" />
+            <mxPoint x="160" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-4" edge="1" parent="1" source="QTAyp0Fpcma3mJEC7rUA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QTAyp0Fpcma3mJEC7rUA-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="170" />
+            </Array>
+            <mxPoint x="680" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MAC-адрес&lt;div&gt;(48 бит)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="320" x="260" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-8" edge="1" parent="1" source="QTAyp0Fpcma3mJEC7rUA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QTAyp0Fpcma3mJEC7rUA-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="OUI&lt;div&gt;24 бит&lt;/div&gt;&lt;div&gt;(Organizationally Unique)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="140" x="90" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-11" edge="1" parent="1" source="QTAyp0Fpcma3mJEC7rUA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QTAyp0Fpcma3mJEC7rUA-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-6" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="NIC 24&lt;div&gt;Network Interface Controller)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="140" x="610" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-14" edge="1" parent="1" source="QTAyp0Fpcma3mJEC7rUA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.164;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" target="QTAyp0Fpcma3mJEC7rUA-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-7" parent="1" style="whiteSpace=wrap;html=1;" value="Пример: 00 : 1A : 2B" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-15" edge="1" parent="1" source="QTAyp0Fpcma3mJEC7rUA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="QTAyp0Fpcma3mJEC7rUA-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-10" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;br&gt;&amp;nbsp;пример: 3C-4D-5E&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="620" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-13" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;code dir=&quot;ltr&quot; class=&quot;KDcb0c&quot; style=&quot;font-size: 14px; margin: 0px; border-bottom: 0.666667px solid rgb(44, 46, 53);&quot;&gt;Пример MAC-адреса:&lt;/code&gt;&lt;br style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; margin: 0px; border-bottom: 0px rgb(230, 232, 240);&quot;&gt;&lt;code dir=&quot;ltr&quot; class=&quot;KDcb0c&quot; style=&quot;font-size: 14px; margin: 0px; border-bottom: 0.666667px solid rgb(44, 46, 53);&quot; aria-owns=&quot;action-menu-parent-container&quot;&gt;00-1A-2B-3C-4D-5E&lt;/code&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="330" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-19" edge="1" parent="1" source="QTAyp0Fpcma3mJEC7rUA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QTAyp0Fpcma3mJEC7rUA-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-22" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="QTAyp0Fpcma3mJEC7rUA-21" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1520" y="400" />
+              <mxPoint x="1520" y="760" />
+              <mxPoint x="1600" y="760" />
+            </Array>
+            <mxPoint x="1290" y="400.0000000000002" as="sourcePoint" />
+            <mxPoint x="1420" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-24" edge="1" parent="1" source="QTAyp0Fpcma3mJEC7rUA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="QTAyp0Fpcma3mJEC7rUA-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-26" edge="1" parent="1" source="QTAyp0Fpcma3mJEC7rUA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" target="QTAyp0Fpcma3mJEC7rUA-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-16" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value=" КОММУТАТОР&amp;nbsp;&lt;div&gt;&amp;nbsp;(Switch)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="170" x="1300" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-20" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;br&gt;PC 1&amp;nbsp;&lt;br&gt;&lt;div&gt;MAC: 00-1A-2B-11-22-33&amp;nbsp;  &lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="880" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-21" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;br&gt;PC 3&lt;br&gt;&amp;nbsp;MAC: 00-1A-2B-44-55-66&lt;div&gt;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="150" x="1600" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-23" parent="1" style="whiteSpace=wrap;html=1;" value="PC 2&lt;div&gt;MAC: 00-1A-2B-44-55-66&amp;nbsp;&lt;br&gt;&lt;div&gt;&amp;nbsp; &lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="95" width="140" x="1780" y="257.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-27" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="PC 4&lt;div&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif, &amp;quot;Noto Color Emoji&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;MAC: 00-1A-2B-AA-BB-CC&lt;/span&gt;&lt;div&gt;&lt;div class=&quot;yhAwj&quot; style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; margin: 0px; border-bottom: 0px rgb(230, 232, 240);&quot;&gt;&lt;/div&gt;&lt;div class=&quot;otQkpb&quot; aria-level=&quot;3&quot; role=&quot;heading&quot; style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 20px; font-weight: 600; margin: 24px 0px 12px; border-bottom: 0px rgb(230, 232, 240);&quot; aria-owns=&quot;action-menu-parent-container&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="150" x="940" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ПОРТ 4&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="1050" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ПОРТ 3&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="1530" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ПОРТ 2&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="1530" y="365" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ПОРТ 1&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="1200" y="365" as="geometry" />
+        </mxCell>
+        <mxCell id="QTAyp0Fpcma3mJEC7rUA-33" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;div class=&quot;n6owBd awi2gc&quot; style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; margin: 0px 0px 16px; border-bottom: 0px rgb(230, 232, 240);&quot;&gt;&lt;span class=&quot;rQesXe MPyX&quot; style=&quot;font-weight: 700; margin: 0px; border-bottom: 0px rgb(230, 232, 240);&quot;&gt;Ошибка: Переполнение MAC-таблицы (Шторм)&lt;/span&gt;&lt;/div&gt;&lt;ul class=&quot;KsbFXc U6u95&quot; style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; margin: 12px 0px 0px; border-bottom: 0px rgb(230, 232, 240);&quot;&gt;&lt;li class=&quot;Z1qcYe&quot; style=&quot;margin: 0px 0px 12px; border-bottom: 0px rgb(230, 232, 240);&quot;&gt;&lt;span class=&quot;iNqyIf&quot; style=&quot;margin: 0px; border-bottom: 0px rgb(230, 232, 240);&quot;&gt;&lt;span class=&quot;rQesXe MPyX&quot; style=&quot;font-weight: 700; margin: 0px; border-bottom: 0px rgb(230, 232, 240);&quot;&gt;Причина:&lt;/span&gt; В сети возникла физическая петля (кабель воткнут двумя концами в один свитч) или происходит хакерская атака. Из-за этого таблица коммутатора переполняется, он начинает рассылать данные на все порты подряд, и сеть «ложится».&lt;/span&gt;&lt;/li&gt;&lt;li class=&quot;Z1qcYe&quot; style=&quot;margin: 0px 0px 12px; border-bottom: 0px rgb(230, 232, 240);&quot;&gt;&lt;span class=&quot;iNqyIf&quot; style=&quot;margin: 0px; border-bottom: 0px rgb(230, 232, 240);&quot;&gt;&lt;span class=&quot;rQesXe MPyX&quot; style=&quot;font-weight: 700; margin: 0px; border-bottom: 0px rgb(230, 232, 240);&quot;&gt;Исправление:&lt;/span&gt;&lt;/span&gt;&lt;ol class=&quot;T9WCjf qkgVBf&quot; style=&quot;margin: 12px 0px 16px; border-bottom: 0px rgb(230, 232, 240);&quot;&gt;&lt;li class=&quot;Z1qcYe&quot; style=&quot;margin: 0px 0px 12px; border-bottom: 0px rgb(230, 232, 240);&quot;&gt;&lt;span class=&quot;iNqyIf&quot; style=&quot;margin: 0px; border-bottom: 0px rgb(230, 232, 240);&quot;&gt;Настроить протокол &lt;span class=&quot;rQesXe MPyX&quot; style=&quot;font-weight: 700; margin: 0px; border-bottom: 0px rgb(230, 232, 240);&quot;&gt;STP&lt;/span&gt; для автоматической блокировки петель в проводах.&lt;/span&gt;&lt;/li&gt;&lt;li class=&quot;Z1qcYe&quot; style=&quot;margin: 0px 0px 12px; border-bottom: 0px rgb(230, 232, 240);&quot;&gt;&lt;span class=&quot;iNqyIf&quot; aria-owns=&quot;action-menu-parent-container&quot; style=&quot;margin: 0px; border-bottom: 0px rgb(230, 232, 240);&quot;&gt;Включить функцию &lt;span class=&quot;rQesXe MPyX&quot; style=&quot;font-weight: 700; margin: 0px; border-bottom: 0px rgb(230, 232, 240);&quot;&gt;Port Security&lt;/span&gt; для ограничения числа MAC-адресов на порт.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="480" width="480" x="710" y="890" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
